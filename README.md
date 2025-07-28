@@ -1,3 +1,4 @@
+HEAD
 <p align="center">
   <img src="app/src/main/res/drawable/ic_logo_yomori.png" alt="Yomori Logo" width="200"/>
 </p>
@@ -121,3 +122,7 @@ Vous êtes libre de l'utiliser, le modifier et le redistribuer sous les conditio
 ---
 
 Merci d’utiliser Yomori et bonne lecture !
+
+# Yomori
+Yomori est un lecteur de webnovels open-source pour Android, centralisant des sources multiples avec lecture offline. L'app s'inspire de Kotatsu mais se focalise sur les romans textuels avec un lecteur optimisé et une bibliothèque organisée
+b96eccf145b6e82426586c99b0633d76bdeb17ab
