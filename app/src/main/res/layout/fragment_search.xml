@@ -1,0 +1,13 @@
+<LinearLayout ... orientation="vertical">
+    <EditText
+        android:id="@+id/search_input"
+        android:hint="@string/search"
+        ... />
+    <Button
+        android:id="@+id/search_button"
+        android:text="@string/search"
+        ... />
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/search_results"
+        ... />
+</LinearLayout>

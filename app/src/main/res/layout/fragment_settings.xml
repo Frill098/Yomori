@@ -1,0 +1,10 @@
+<LinearLayout ... orientation="vertical">
+    <Switch
+        android:id="@+id/switch_notif"
+        android:text="@string/enable_notifications"/>
+    <TextView
+        android:text="@string/notification_frequency"/>
+    <Spinner
+        android:id="@+id/spinner_freq"
+        android:entries="@array/frequency_options"/>
+</LinearLayout> 

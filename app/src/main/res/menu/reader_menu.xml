@@ -1,0 +1,5 @@
+<menu>
+    <item android:id="@+id/theme_light" android:title="Clair"/>
+    <item android:id="@+id/theme_dark" android:title="Sombre"/>
+    <item android:id="@+id/theme_sepia" android:title="Sépia"/>
+</menu> 

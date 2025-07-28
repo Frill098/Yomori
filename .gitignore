@@ -1,0 +1,43 @@
+# Android
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+*.iml
+*.apk
+*.ap_ 
+*.db
+*.log
+*.keystore
+*.jks
+*.class
+*.dex
+*.jar
+*.war
+*.ear
+*.hprof
+*.orig
+*.rej
+*.swp
+*.swo
+*.tmp
+*.bak
+*.~
+
+# Ignore generated files
+app/build/
+app/release/
+app/debug/
+app/.cxx/
+
+# Ignore OS files
+Thumbs.db
+Desktop.ini
+
+# Ignore crashlytics and fabric files
+crashlytics-build.properties
+fabric.properties

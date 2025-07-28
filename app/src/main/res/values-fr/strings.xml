@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Yomori</string>
+    <string name="library">Bibliothèque</string>
+    <string name="discover">Découverte</string>
+    <string name="search">Recherche</string>
+    <string name="downloads">Téléchargements</string>
+    <string name="settings">Paramètres</string>
+</resources> 

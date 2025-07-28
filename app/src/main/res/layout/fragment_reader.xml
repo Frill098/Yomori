@@ -1,0 +1,33 @@
+<FrameLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <WebView
+        android:id="@+id/chapter_webview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/transparent"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="top|end"
+        android:padding="8dp">
+        <ImageButton
+            android:id="@+id/font_minus"
+            android:src="@android:drawable/ic_menu_zoom_out"
+            android:contentDescription="Réduire la police"
+            android:background="?attr/selectableItemBackgroundBorderless"/>
+        <ImageButton
+            android:id="@+id/font_plus"
+            android:src="@android:drawable/ic_menu_zoom_in"
+            android:contentDescription="Agrandir la police"
+            android:background="?attr/selectableItemBackgroundBorderless"/>
+        <ImageButton
+            android:id="@+id/theme_button"
+            android:src="@android:drawable/ic_menu_manage"
+            android:contentDescription="Changer le thème"
+            android:background="?attr/selectableItemBackgroundBorderless"/>
+    </LinearLayout>
+</FrameLayout> 
